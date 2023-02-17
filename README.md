@@ -1,4 +1,4 @@
-![logo](https://github.com/mumal885/Speed-calculator/blob/main/Text%20converter.png)
+![logo](https://github.com/mumal885/QRcode-using-python-/blob/main/%40tech.art2205.svg)
 # QRcode
 This QRcode is coded in python.
 
